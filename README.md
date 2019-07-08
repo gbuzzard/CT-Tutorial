@@ -1,5 +1,7 @@
 # CT-Tutorial
-Tutorial code for CT reconstruction with high dynamic range images
+Tutorial code for CT reconstruction with high dynamic range images.  See the 
+[Landing page](https://pages.github.rcac.purdue.edu/GregeryBuzzardGroup/CT-Tutorial/)
+for more details.  
 
 ### Conversion of a CT image to a noisy sinogram and reconstruction with noise and without noise.  
 
